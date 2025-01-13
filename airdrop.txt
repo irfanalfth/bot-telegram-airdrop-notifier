@@ -9,3 +9,9 @@ dawn
 DeSpeed
 $DeSpeed
 crestal
+plume
+plumenetwork
+https://register.sentient.xyz/
+sentient
+paws
+blum
